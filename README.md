@@ -18,7 +18,7 @@ Created by **Mr snow**, Cybersecurity Enthusiast.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/snowcracker.git
+git clone https://github.com/Snowden16/snowcracker.git
 cd snowcracker
 chmod +x install.sh
 ./install.sh
