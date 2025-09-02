@@ -13,15 +13,3 @@ Created by **Mr snow**, Cybersecurity Enthusiast.
 - Auto-detect hash type
 - Professional CLI interface
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Snowden16/snowcracker.git
-cd snowcracker
-chmod +x install.sh
-./install.sh
-
-
-After installation run : snowcracker
