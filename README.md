@@ -38,3 +38,17 @@ Usage
 After installation, run:
 
 snowcracker
+
+
+
+
+
+
+
+
+
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
