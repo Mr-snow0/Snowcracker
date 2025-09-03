@@ -26,3 +26,22 @@ Clone the repository:
 ```bash
 git clone https://github.com/Mr-Snow0/Snowcracker.git
 cd Snowcracker
+
+```
+---
+
+## Make the installer executable and run it:
+
+chmod +x install.sh
+./install.sh
+
+---
+
+▶️ Usage
+
+After installation, run the tool:
+
+snowcracker
+
+
+
