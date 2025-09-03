@@ -1,54 +1,28 @@
-SnowCracker ❄
+ # ❄️ SnowCracker
 
-SnowCracker is a professional CLI tool to hash passwords and crack hashes using wordlists.
-Created by Mr snow, Cybersecurity Enthusiast.
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-Features
+**SnowCracker** is a professional CLI tool to hash passwords and crack hashes using wordlists.  
+Created by **Mr Snow**, Cybersecurity Enthusiast.  
 
-Hash passwords (MD5, SHA1, SHA256, SHA512)
+---
 
-Crack hashes with wordlists (rockyou.txt support)
+## 🚀 Features
+- 🔑 Hash passwords (**MD5, SHA1, SHA256, SHA512**)  
+- 🛠 Crack hashes with wordlists (**rockyou.txt support**)  
+- 🎨 Colored output for better readability  
+- ⏳ Progress bar & spinner during cracking  
+- 🖐 Graceful **Ctrl+C** handling  
+- 🤖 Auto-detect hash type  
+- 💻 Professional and easy-to-use CLI interface  
 
-Colored output for better readability
+---
 
-Progress bar & spinner during cracking
-
-Graceful Ctrl+C handling
-
-Auto-detect hash type
-
-Professional and easy-to-use CLI interface
-
-
-Installation
+## 📦 Installation
 
 Clone the repository:
 
-git clone https://github.com/Snowden16/snowcracker.git
-cd snowcracker
-
-Make the installer executable and run it:
-
-chmod +x install.sh
-./install.sh
-
-
-Usage
-
-After installation, run:
-
-snowcracker
-
-
-
-
-
-
-
-
-
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+```bash
+git clone https://github.com/Mr-Snow0/Snowcracker.git
+cd Snowcracker
